@@ -1,0 +1,13 @@
+# HRC Simulation Log — Episodes
+# Episode,Cycle,Timestamp(s),Actor,Action,RobotTime(s),Fatigue,CollisionFlag
+1,1,0.100,Robot,Pick,0.098,0.502,0
+1,2,0.200,Human,Inspect,0.105,0.508,0
+1,3,0.300,Robot,Place,0.095,0.510,1
+...
+1000,2499,249.900,Robot,Pick,0.097,0.673,0
+1000,2500,250.000,Human,Inspect,0.102,0.679,0
+
+
+
+
+
