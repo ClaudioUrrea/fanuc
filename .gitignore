@@ -1,0 +1,4 @@
+﻿# Datos pesados (almacenados en FigShare)
+data/processed/HRC_Simulation_Results_Fanuc.csv
+data/processed/HRC_Synthetic_Dataset_Fanuc.parquet
+data/processed/HRC_Simulation_Aggregated_Fanuc.csv
