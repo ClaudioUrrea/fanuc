@@ -24,7 +24,8 @@ fanuc/
 ├── data/
 │   ├── raw/
 │   │   ├── HRC_Simulation_Log_Episodes.txt
-│   │   └── HRC_TaskLevel_Results_Fanuc.csv
+│   │   ├── HRC_TaskLevel_Results_Fanuc.csv
+│   │   └── HRC_TaskLevel_Results_Baseline.csv
 │   └── processed/
 │       ├── HRC_Simulation_Results_Fanuc.csv
 │       ├── HRC_Simulation_Aggregated_Fanuc.csv

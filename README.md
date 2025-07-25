@@ -22,6 +22,7 @@ This repository contains all scripts, raw and processed data, and figures used i
 
   * `HRC_Simulation_Log_Episodes.txt`
   * `HRC_TaskLevel_Results_Fanuc.csv`
+  * `HRC_TaskLevel_Results_Baseline.csv`
 * `/data/processed/`
 
   * `HRC_Simulation_Results_Fanuc.csv`

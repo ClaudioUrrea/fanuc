@@ -16,6 +16,7 @@ All notable changes to this project will be documented in this file.
   - `HRC_Simulation_Results_Fanuc.csv`
   - `HRC_Simulation_Aggregated_Fanuc.csv`
   - `Sensitivity_Results_Fanuc.csv`
+  - `HRC_TaskLevel_Results_Baseline.csv`
   - `HRC_Synthetic_Dataset_Fanuc.parquet`
 - Figures (PNG) for Figures 8–12.
 - Documentation:
