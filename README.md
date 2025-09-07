@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fatigue-Aware Sub-Second Combinatorial Auctions for Dynamic Cycle Allocation in Human–Robot Collaborative Assembly
 
 This repository contains all scripts, raw and processed data, and figures used in:
