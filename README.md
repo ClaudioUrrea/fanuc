@@ -1,7 +1,7 @@
 # Fatigue-Aware Sub-Second Combinatorial Auctions for Dynamic Cycle Allocation in Human–Robot Collaborative Assembly
 
 This repository contains all scripts, raw and processed data, and figures used in:
-**“Fatigue-Aware Sub-Second Combinatorial Auctions for Dynamic Cycle Allocation in Human–Robot Collaboration Assembly”**, submitted to *Mathematics* (MDPI). The accompanying code and data are also available via FigShare (DOI: [https://doi.org/10.6084/m9.figshare.29431700](https://doi.org/10.6084/m9.figshare.29431700)).
+**“Fatigue-Aware Sub-Second Combinatorial Auctions for Dynamic Cycle Allocation in Human–Robot Collaborative Assembly”**, *Mathematics* **2025**, *13*(15), 2429. https://doi.org/10.3390/math13152429. The accompanying code and data are also available via FigShare (DOI: [https://doi.org/10.6084/m9.figshare.29431700](https://doi.org/10.6084/m9.figshare.29431700)).
 
 ## Structure
 

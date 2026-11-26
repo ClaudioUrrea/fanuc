@@ -8,4 +8,17 @@ title: "Code & Data for ‘Fatigue-Aware Sub-Second Combinatorial Auctions for D
 version: 1.0.0
 date-released: 2025-06-30
 doi: "10.6084/m9.figshare.29431700"
-
+preferred-citation:
+  type: article
+  title: "Fatigue-Aware Sub-Second Combinatorial Auctions for Dynamic Cycle Allocation in Human–Robot Collaborative Assembly"
+  authors:
+    - family-names: "Urrea"
+      given-names: "Claudio"
+      orcid: "https://orcid.org/0000-0001-7197-8928"
+  journal: "Mathematics"
+  year: 2025
+  volume: 13
+  issue: 15
+  start: 2429
+  doi: "10.3390/math13152429"
+  url: "https://doi.org/10.3390/math13152429"
